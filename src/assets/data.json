@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"using Input-Output","description":"to transfer data between parent and child,This method is used"},
+    {"id":2,"name":"using services","description":"to transfer data between sibling components,This method is used"},
+    {"id":3,"name":"using rxjs","description":"to transfer data using redux/store concept,This method is used"}
+]
